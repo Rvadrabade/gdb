@@ -1,0 +1,4 @@
+1036^done
+(gdb) 
+=thread-exited,id="1",group-id="i1"
+=thread-group-exited,id="i1"
